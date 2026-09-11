@@ -1,4 +1,4 @@
-Privacy Policy
+## Privacy Policy
 
 Effective Date: September 12, 2026
 
@@ -39,4 +39,4 @@ This Privacy Policy describes how Equil ("we", "our", or "us") collects, uses, a
 - Data Removal: Deleting your account permanently removes your account credentials and associated synced data from our Supabase servers. Local data stored on your device can be completely cleared by uninstalling the application.
 
 ## 5. Contact Us
-If you have any questions or concerns about this Privacy Policy or your data, you can reach out via the support contact available in the app settings.
+- If you have any questions or concerns about this Privacy Policy or your data, you can reach out via the support contact available in the app settings.
