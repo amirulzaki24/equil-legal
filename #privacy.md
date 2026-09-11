@@ -6,7 +6,7 @@ App Name: Equil
 
 This Privacy Policy describes how Equil ("we", "our", or "us") collects, uses, and handles your information when you use our mobile application.
 
-1. Information We Collect
+## 1. Information We Collect
 We collect only the minimum amount of data necessary to provide you with a functional and personalized fitness tracking experience:
 
 Google Account Information: When you sign in using your Google account, we collect your basic profile information (such as your name and email address) to authenticate your identity and create your Equil account.
