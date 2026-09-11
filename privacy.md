@@ -1,4 +1,5 @@
 Privacy Policy
+
 Effective Date: September 12, 2026
 
 App Name: Equil
